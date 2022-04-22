@@ -12,3 +12,5 @@ require (
 	github.com/twmb/go-strftime v0.0.0-20190915101236-e74f7c4fe4fa
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
 )
+
+replace github.com/twmb/kcl v0.8.1-0.20220414160959-ca658f9725f8 => github.com/Zach-Johnson/kcl v0.8.1-0.20220422010454-12f4e09528cc
